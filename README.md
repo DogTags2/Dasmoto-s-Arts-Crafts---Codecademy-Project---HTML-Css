@@ -47,7 +47,7 @@
 
 <!--CSS-->
 
-
+<p> CSS HAS BEEN GOOFED UP ON GITHUB</p>
 
 
 /*Extra Background image (personaly added)*/ 
