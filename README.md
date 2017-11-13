@@ -1,15 +1,5 @@
-There are 2 parts the Css and The Html part, Its easyer to see on my gist which you can see here https://gist.github.com/DogTags2/e731ba4dc2b4066ff7ba315af5ce2047
-
-
-
-
-
-
-Html
-
-
-
-
+<!-- There are 2 parts the Css and The Html part, Its easyer to see on my gist which you can see here https://gist.github.com/DogTags2/e731ba4dc2b4066ff7ba315af5ce2047 -->
+<!--Html-->
 <!DOCTYPE html>
 <html>
   <head>
@@ -55,7 +45,7 @@ Html
 
 
 
-CSS
+<!--CSS-->
 
 
 
